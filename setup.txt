@@ -1,0 +1,6 @@
+Open terminal and run this:-
+winget install JanDeDobbeleer.OhMyPosh -s winget
+notepad $profile
+
+create folder if doesn't exist in previous step and paste below in the file
+oh-my-posh init pwsh --config ~/jandedobbeleer.omp.json | Invoke-Expression
