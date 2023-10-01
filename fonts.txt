@@ -1,0 +1,2 @@
+Download Fira Code Nerd fonts from here
+https://github.com/ryanoasis/nerd-fonts/releases
